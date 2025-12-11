@@ -81,7 +81,7 @@ Distribution of Outage Duration
 
 <iframe
   src="assets/outage-duration-hist.html"
-  width="800"
+  width="850"
   height="600"
   frameborder="0">
 </iframe>
@@ -162,6 +162,8 @@ I used the difference in means as the test statistic.
 ></iframe>
 
 
+
+
 <iframe
   src="assets/missing-duration-permutation.html"
   width="800"
@@ -195,6 +197,8 @@ I used Total Variation Distance (TVD) as the test statistic.
   height="600"
   frameborder="0"
 ></iframe>
+
+
 
 
 <iframe
